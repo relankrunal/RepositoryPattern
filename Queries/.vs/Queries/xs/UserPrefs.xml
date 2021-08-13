@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D1776DED-C59A-4F8A-8C31-96EAE15BDF5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Queries/Core/Repositories/IRepository.cs">
+    <Files>
+      <File FileName="Queries/Core/Repositories/IAuthorRepository.cs" Line="1" Column="1" />
+      <File FileName="Queries/Core/IUnitOfWork.cs" />
+      <File FileName="Queries/Persistence/Repositories/Repository.cs" />
+      <File FileName="Queries/Core/Repositories/IRepository.cs" Line="14" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Queries" expanded="True">
+            <Node name="Queries" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Domain" expanded="True" />
+                <Node name="Repositories" expanded="True">
+                  <Node name="IRepository.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Queries PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
